@@ -1,3 +1,3 @@
 # QGDataMining
 Machine Learning
-Learn 
+Learn basic machine learning
